@@ -1,1 +1,1 @@
-web: node firebase.js
+web: node index.js
